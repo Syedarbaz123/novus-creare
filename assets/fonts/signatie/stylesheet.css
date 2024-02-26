@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Signatie';
+    src: url('Signatie.eot');
+    src: url('Signatie.eot?#iefix') format('embedded-opentype'),
+        url('Signatie.woff2') format('woff2'),
+        url('Signatie.woff') format('woff'),
+        url('Signatie.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Signatie';
+    src: url('Signatie_1.eot');
+    src: url('Signatie_1.eot?#iefix') format('embedded-opentype'),
+        url('Signatie_1.woff2') format('woff2'),
+        url('Signatie_1.woff') format('woff'),
+        url('Signatie_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Signatie';
+    src: url('Signatie_2.eot');
+    src: url('Signatie_2.eot?#iefix') format('embedded-opentype'),
+        url('Signatie_2.woff2') format('woff2'),
+        url('Signatie_2.woff') format('woff'),
+        url('Signatie_2.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
